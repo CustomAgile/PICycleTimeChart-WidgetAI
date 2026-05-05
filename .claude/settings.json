@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Edit(src/**)",
+      "Write(src/**)",
+      "Read",
+      "Glob",
+      "Grep",
+      "Bash(npm *)",
+      "Bash(npx vite *)",
+      "Bash(npx tsc *)",
+      "Bash(npx vitest *)",
+      "Bash(widget-ai *)"
+    ]
+  }
+}
